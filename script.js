@@ -6,6 +6,6 @@ function search() {
         imageContainer.classList.remove("hidden");
     } else {
         imageContainer.classList.add("hidden");
-        alert("No match found. Please try 'Sukria'.");
+        alert("No match found. Please try more...");
     }
 }
